@@ -1,0 +1,31 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/js/offline-plugin-app-shell-fallback/
+  Link: </js/webpack-runtime-8ce1afb6826318172d93.js>; rel=preload; as=script
+  Link: </js/component---node-modules-gatsby-plugin-offline-app-shell-js-307e96df9f1ce4f52916.js>; rel=preload; as=script
+/js/mona-magnussen
+  Link: </js/webpack-runtime-8ce1afb6826318172d93.js>; rel=preload; as=script
+  Link: </js/0-79c3ca72e3e804408794.js>; rel=preload; as=script
+/js/amy-luo
+  Link: </js/webpack-runtime-8ce1afb6826318172d93.js>; rel=preload; as=script
+  Link: </js/0-79c3ca72e3e804408794.js>; rel=preload; as=script
+/js/matt-cannon
+  Link: </js/webpack-runtime-8ce1afb6826318172d93.js>; rel=preload; as=script
+  Link: </js/0-79c3ca72e3e804408794.js>; rel=preload; as=script
+/js/roman-kraft
+  Link: </js/webpack-runtime-8ce1afb6826318172d93.js>; rel=preload; as=script
+  Link: </js/0-79c3ca72e3e804408794.js>; rel=preload; as=script
+/js/marion-michele
+  Link: </js/webpack-runtime-8ce1afb6826318172d93.js>; rel=preload; as=script
+  Link: </js/0-79c3ca72e3e804408794.js>; rel=preload; as=script
+/js/
+  Link: </js/webpack-runtime-8ce1afb6826318172d93.js>; rel=preload; as=script
+  Link: </js/0-79c3ca72e3e804408794.js>; rel=preload; as=script
