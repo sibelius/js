@@ -48,6 +48,7 @@
     "eslint-plugin-jsx-a11y": "^6.1.2",
     "eslint-plugin-prettier": "^3.0.0",
     "eslint-plugin-react": "^7.11.1",
+    "gh-pages": "^2.0.1",
     "prettier": "^1.14.3"
   },
   "homepage": "https://github.com/sibelius/js#readme",
@@ -63,6 +64,7 @@
   },
   "scripts": {
     "build": "gatsby build",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "dev": "gatsby develop -o",
     "serve": "gatsby serve"
   }
